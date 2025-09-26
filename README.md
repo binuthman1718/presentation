@@ -1,2 +1,1 @@
-# presentation
-how to create and push from the terminal
+ hello, my name is mubarak and this is my first presentation
